@@ -36,20 +36,16 @@
 
 ###
 
-<h3 align="left">Другие проекты:<br>💻 Десктоп-приложение (C#/WPF) → -30% нагрузки на персонал</h3>
+<h3 align="left">Другие проекты:<br><br>💻 Десктоп-приложение (C#/WPF) → -30% нагрузки на персонал</h3>
 
 ###
-
-<h2 align="left">Контакты</h2>
-
-###
-
-<div align="left">
+<h2 align="right">Контакты</h2>
+<div align="right">
   <a href="https://www.linkedin.com/in/seva-makarsky-666954235/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/vsvldm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="30" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="58" height="50" alt="telegram logo"  />
   </a>
 </div>
 
