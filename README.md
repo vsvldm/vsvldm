@@ -20,6 +20,8 @@
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
 </div>
 
 ###
